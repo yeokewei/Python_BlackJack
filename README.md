@@ -1,7 +1,7 @@
 # Python_BlackJack
-SUTD Computational Design Thinking: Text-based Game
+SUTD Computational Design Thinking: Text-based Game (Oct - Dec 2020) 
 
-Hello! We are CC07 Team 5.
+Hello! We are CC07 Team 5 Freshmores and welcome to our project text-based built using python.
 To run our Blackjack python code, please open it in Spyder for the best results.
 Click on the code and press Ctrl + Enter (or F5) to run the programme.
 Click on the console and follow the instructions to play!
